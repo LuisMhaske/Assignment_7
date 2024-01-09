@@ -1,0 +1,24 @@
+{
+  "products": {
+    "piano": {
+      "price": 500,
+      "quantity": 5
+    },
+    "mug": {
+      "price": 10,
+      "quantity": 20
+    },
+    "brush": {
+      "price": 5,
+      "quantity": 50
+    },
+    "poster": {
+      "price": 2,
+      "quantity": 30
+    },
+    "casio": {
+      "price": 100.0,
+      "quantity": 3
+    }
+  }
+}
